@@ -1,6 +1,6 @@
 # NSS - Modern Javascript Developer: 
 ## Shake Your Fist at the Sky
-**(NSFW!)**
+**( N S F W! )**
 
 ### Directives
 + Interact with [NASA's API](https://api.nasa.gov/api.html#NeoWS) to pull data of astroids near Earth within a user-specified time frame
